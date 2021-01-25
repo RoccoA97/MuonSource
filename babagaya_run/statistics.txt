@@ -1,0 +1,49 @@
+  
+ final state = mm 
+ ecms   =      0.2300 GeV
+ thmin  =      0.0000 deg
+ thmax  =    180.0000 deg
+ acoll. =     10.0000 deg
+ emin   =       0.0000 GeV
+ ord    = exp   
+ model  = matched   
+ nphot mode =   -1
+ seed   =700253512
+ iarun  =    1
+ eps    = .000500000
+ darkmod =    0
+  
+~ Generating    10000000. weighted events ~
+  
+ ::::::>>>>>> weighted events <<<<<<::::::
+ 0 photons:     656.42007954 +-      0.14804975     ( 77.7585 %)
+ 1 photons:     165.59309040 +-      0.16197869     ( 19.6159 %)
+ 2 photons:      20.42610543 +-      0.08194997     (  2.4196 %)
+ 3 photons:       1.64613814 +-      0.03153664     (  0.1950 %)
+ 4 photons:       0.08750652 +-      0.00682772     (  0.0104 %)
+ 5 photons:       0.00442667 +-      0.00142643     (  0.0005 %)
+ 6 photons:       0.00013852 +-      0.00009870     (  0.0000 %)
+ total:       844.17748523 +-      0.17471152 nb
+  
+ n.     10000000 of            10000000.
+ cut points   9.42 %
+ ::::::>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<::::::
+  
+ ::::::>>>>>> unweighted events <<<<<<::::::
+ hit or miss efficiency   0.52 %
+ unweighted events generated       25844.
+  
+ total (nb):       851.74647996 +-      5.28451555 +
+        !!!!         0.00000000 +-      0.00000000 (bias over fmax) +
+        !!!!        -0.00000000 +-      0.00000000 (bias negative)
+ total + biases:     851.74647996 +-      5.28451555
+  
+ N. points with w > fmax (bias):            0
+ bias/hit and bias/(hit+missed): 0.0000000 % and  0.0000000 %
+ N. points with w < 0:           0
+ biases for w < 0:      0.00000 % and    0.00000 %
+  
+ Upper limits fmax and sdifmax  164786.116692  156939.158754
+ when there were   1 photons
+ ::::::>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<::::::
+  
