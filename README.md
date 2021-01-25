@@ -5,9 +5,6 @@
 </center>
 
 
-
-
-
 ## Authors
 
 * [**Rocco Ardino**](https://github.com/RoccoA97) (University of Padua)
