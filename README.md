@@ -1,8 +1,8 @@
 # Muon Source Monte Carlo simulation
 
-<center>
+<p align="center">
     <img src="./angular.png" alt="Drawing" style="width: 500px"/>
-</center>
+</p>
 
 
 ## Authors
